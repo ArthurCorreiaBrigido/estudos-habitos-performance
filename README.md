@@ -1,7 +1,7 @@
 # Análise de Hábitos e Desempenho dos Estudantes
 
 Este projeto tem como objetivo analisar a relação entre os **hábitos de estudo dos estudantes e o desempenho acadêmico**.
-A base de dados contém informações sobre horas de estudo, tempo de sono, frequência nas aulas, uso de redes sociais e notas fiscais.
+A base de dados contém informações sobre horas de estudo, tempo de sono, frequência nas aulas, uso de redes sociais e notas finais.
 A análise busca identificar padrões de comportamento que influenciam o rendimento escolar.
 
 🗂️ Estrutura do Projeto
